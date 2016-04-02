@@ -245,14 +245,13 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {117934571,205364303},--Sudo users
+	    sudo_users = {204285160},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel : 
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -321,7 +320,7 @@ ch: @Nod32team
 
 ]],
     help_text = [[
-king fire bot Commands list :
+کس عمت چشای کیریتو وا کن نگاه کن 
  
 1-banhammer list ^
  
