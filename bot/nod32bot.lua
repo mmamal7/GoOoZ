@@ -245,11 +245,11 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {204285160},--Sudo users
+	    sudo_users = {204285160,126477037},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
-https://github.com/BH-YAGHI/NOD32-BOT.git
+https://github.com/alijoooon/GoOoZ
 
 channel : 
 ]],
@@ -320,7 +320,7 @@ ch: @Nod32team
 
 ]],
     help_text = [[
-کس عمت چشای کیریتو وا کن نگاه کن 
+85 bot
  
 1-banhammer list ^
  
@@ -516,8 +516,8 @@ you can use both "/" and "!"
 
 👿ببین جنده زیاد باهاش ور نرو میکنمت کسکش
 
-👿 با تشکر از علی ادیتور و حجت کسخل 
-کیرم دهن همتون یهویی
+
+https://telegram.me/chalesh_zedspem
 ]]
    }
   serialize_to_file(config, './data/config.lua')
